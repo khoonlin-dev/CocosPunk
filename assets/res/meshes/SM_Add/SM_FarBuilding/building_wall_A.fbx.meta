@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d73136d9-e283-4efa-828e-698c16eda168",
+  "files": [],
+  "subMetas": {
+    "dcb1a": {
+      "importer": "gltf-mesh",
+      "uuid": "d73136d9-e283-4efa-828e-698c16eda168@dcb1a",
+      "displayName": "",
+      "id": "dcb1a",
+      "name": "pCube100_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "d73136d9-e283-4efa-828e-698c16eda168@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "d73136d9-e283-4efa-828e-698c16eda168@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b501b": {
+      "importer": "gltf-scene",
+      "uuid": "d73136d9-e283-4efa-828e-698c16eda168@b501b",
+      "displayName": "",
+      "id": "b501b",
+      "name": "building_wall_A.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d73136d9-e283-4efa-828e-698c16eda168@b501b",
+    "assetFinder": {
+      "meshes": [
+        "d73136d9-e283-4efa-828e-698c16eda168@dcb1a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d73136d9-e283-4efa-828e-698c16eda168@8d883",
+        "d73136d9-e283-4efa-828e-698c16eda168@7a3ca"
+      ],
+      "scenes": [
+        "d73136d9-e283-4efa-828e-698c16eda168@b501b"
+      ]
+    }
+  }
+}

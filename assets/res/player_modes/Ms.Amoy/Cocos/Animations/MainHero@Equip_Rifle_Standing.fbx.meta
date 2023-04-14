@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "78cb454c-fdea-424c-9991-859d6c08b88f",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "b54e1": {
+      "importer": "gltf-animation",
+      "uuid": "78cb454c-fdea-424c-9991-859d6c08b88f@b54e1",
+      "displayName": "",
+      "id": "b54e1",
+      "name": "Equip_Rifle_Standing.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.7666666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "3647e": {
+      "importer": "gltf-scene",
+      "uuid": "78cb454c-fdea-424c-9991-859d6c08b88f@3647e",
+      "displayName": "",
+      "id": "3647e",
+      "name": "MainHero@Equip_Rifle_Standing.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.7666666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Equip_Rifle_Standing",
+            "from": 0,
+            "to": 1.7666666507720947,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "78cb454c-fdea-424c-9991-859d6c08b88f@3647e",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "78cb454c-fdea-424c-9991-859d6c08b88f@3647e"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

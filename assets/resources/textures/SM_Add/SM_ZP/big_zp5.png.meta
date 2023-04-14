@@ -1,0 +1,46 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "bf3c962e-f1f1-46bb-961c-9c76835e0002",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "bf3c962e-f1f1-46bb-961c-9c76835e0002@6c48a",
+      "displayName": "big_zp5",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "bf3c962e-f1f1-46bb-961c-9c76835e0002",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": false,
+    "type": "texture",
+    "redirect": "bf3c962e-f1f1-46bb-961c-9c76835e0002@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "b1Afc4cMtON6ugDBET15Tr"
+    }
+  }
+}

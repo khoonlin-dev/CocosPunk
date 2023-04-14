@@ -1,0 +1,114 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "751d3620-de5e-4e45-bae3-d31eabe15b9f",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "ee036": {
+      "importer": "gltf-animation",
+      "uuid": "751d3620-de5e-4e45-bae3-d31eabe15b9f@ee036",
+      "displayName": "",
+      "id": "ee036",
+      "name": "Equip_Rifle_Standing_machine_gun0.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.7666666507720947
+        },
+        "events": [],
+        "speed": 2
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "08167": {
+      "importer": "gltf-animation",
+      "uuid": "751d3620-de5e-4e45-bae3-d31eabe15b9f@08167",
+      "displayName": "",
+      "id": "08167",
+      "name": "EquipBack_Rifle_Standing_machine_0.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 1,
+        "speed": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "02f02": {
+      "importer": "gltf-scene",
+      "uuid": "751d3620-de5e-4e45-bae3-d31eabe15b9f@02f02",
+      "displayName": "",
+      "id": "02f02",
+      "name": "MainHero@Equip_Rifle_Standing_machine_gun0.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "MainHero@Equip_Rifle_Standing_machine_gun1",
+        "duration": 1.7666666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Equip_Rifle_Standing_machine_gun0",
+            "from": 0,
+            "to": 1.7666666507720947,
+            "wrapMode": 1,
+            "speed": 2
+          },
+          {
+            "name": "EquipBack_Rifle_Standing_machine_0",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 1,
+            "speed": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "751d3620-de5e-4e45-bae3-d31eabe15b9f@02f02",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "751d3620-de5e-4e45-bae3-d31eabe15b9f@02f02"
+      ]
+    }
+  }
+}

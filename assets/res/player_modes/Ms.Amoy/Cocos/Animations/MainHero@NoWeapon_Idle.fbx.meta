@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "682b15f3-dd24-4100-96c3-8e63aa45c3af",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "18da8": {
+      "importer": "gltf-animation",
+      "uuid": "682b15f3-dd24-4100-96c3-8e63aa45c3af@18da8",
+      "displayName": "",
+      "id": "18da8",
+      "name": "NoWeapon_Idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.6666667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "e3267": {
+      "importer": "gltf-scene",
+      "uuid": "682b15f3-dd24-4100-96c3-8e63aa45c3af@e3267",
+      "displayName": "",
+      "id": "e3267",
+      "name": "MainHero@NoWeapon_Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 2.6666667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "NoWeapon_Idle",
+            "from": 0,
+            "to": 2.6666667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "682b15f3-dd24-4100-96c3-8e63aa45c3af@e3267",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "682b15f3-dd24-4100-96c3-8e63aa45c3af@e3267"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

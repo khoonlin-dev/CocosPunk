@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "666ab3a6-9c22-450f-b850-30862230c234",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "b7858": {
+      "importer": "gltf-animation",
+      "uuid": "666ab3a6-9c22-450f-b850-30862230c234@b7858",
+      "displayName": "",
+      "id": "b7858",
+      "name": "Fire_Shotgun_Hip.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.2666666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "0a58f": {
+      "importer": "gltf-scene",
+      "uuid": "666ab3a6-9c22-450f-b850-30862230c234@0a58f",
+      "displayName": "",
+      "id": "0a58f",
+      "name": "MainHero@Fire_Shotgun_Hip.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.2666666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Fire_Shotgun_Hip",
+            "from": 0,
+            "to": 1.2666666507720947,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "666ab3a6-9c22-450f-b850-30862230c234@0a58f",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "666ab3a6-9c22-450f-b850-30862230c234@0a58f"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

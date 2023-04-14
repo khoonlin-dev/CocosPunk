@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ff31fb4f-4311-45a8-a968-0e261b2fb0aa",
+  "files": [],
+  "subMetas": {
+    "cea4a": {
+      "importer": "gltf-mesh",
+      "uuid": "ff31fb4f-4311-45a8-a968-0e261b2fb0aa@cea4a",
+      "displayName": "",
+      "id": "cea4a",
+      "name": "pCube15_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "ff31fb4f-4311-45a8-a968-0e261b2fb0aa@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "ff31fb4f-4311-45a8-a968-0e261b2fb0aa@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f5bbb": {
+      "importer": "gltf-scene",
+      "uuid": "ff31fb4f-4311-45a8-a968-0e261b2fb0aa@f5bbb",
+      "displayName": "",
+      "id": "f5bbb",
+      "name": "building_wall_B.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ff31fb4f-4311-45a8-a968-0e261b2fb0aa@f5bbb",
+    "assetFinder": {
+      "meshes": [
+        "ff31fb4f-4311-45a8-a968-0e261b2fb0aa@cea4a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ff31fb4f-4311-45a8-a968-0e261b2fb0aa@8d883",
+        "ff31fb4f-4311-45a8-a968-0e261b2fb0aa@7a3ca"
+      ],
+      "scenes": [
+        "ff31fb4f-4311-45a8-a968-0e261b2fb0aa@f5bbb"
+      ]
+    }
+  }
+}

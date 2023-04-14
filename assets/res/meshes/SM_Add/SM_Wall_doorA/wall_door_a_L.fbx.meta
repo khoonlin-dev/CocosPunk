@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "41af51cd-a86d-40f7-af0e-7059deab3f14",
+  "files": [],
+  "subMetas": {
+    "23b14": {
+      "importer": "gltf-mesh",
+      "uuid": "41af51cd-a86d-40f7-af0e-7059deab3f14@23b14",
+      "displayName": "",
+      "id": "23b14",
+      "name": "pCube23.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "41af51cd-a86d-40f7-af0e-7059deab3f14@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d0a00": {
+      "importer": "gltf-scene",
+      "uuid": "41af51cd-a86d-40f7-af0e-7059deab3f14@d0a00",
+      "displayName": "",
+      "id": "d0a00",
+      "name": "wall_door_a_L.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "41af51cd-a86d-40f7-af0e-7059deab3f14@d0a00",
+    "assetFinder": {
+      "meshes": [
+        "41af51cd-a86d-40f7-af0e-7059deab3f14@23b14"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "41af51cd-a86d-40f7-af0e-7059deab3f14@8d883"
+      ],
+      "scenes": [
+        "41af51cd-a86d-40f7-af0e-7059deab3f14@d0a00"
+      ]
+    }
+  }
+}

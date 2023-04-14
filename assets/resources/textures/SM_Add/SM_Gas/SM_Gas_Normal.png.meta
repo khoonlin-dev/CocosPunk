@@ -1,0 +1,46 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "66611f15-3826-43c8-9db3-81ccc265b000",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "66611f15-3826-43c8-9db3-81ccc265b000@6c48a",
+      "displayName": "SM_Gas_Normal",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "66611f15-3826-43c8-9db3-81ccc265b000",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "66611f15-3826-43c8-9db3-81ccc265b000@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "b1Afc4cMtON6ugDBET15Tr"
+    }
+  }
+}

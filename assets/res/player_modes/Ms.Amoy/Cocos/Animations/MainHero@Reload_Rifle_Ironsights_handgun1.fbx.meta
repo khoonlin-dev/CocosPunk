@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9e494b11-ac66-4aac-a5b9-ae4376144d0b",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "305f8": {
+      "importer": "gltf-animation",
+      "uuid": "9e494b11-ac66-4aac-a5b9-ae4376144d0b@305f8",
+      "displayName": "",
+      "id": "305f8",
+      "name": "Reload_Rifle_Ironsights_handgun1.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.200000047683716
+        },
+        "events": [],
+        "speed": 2
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "76a04": {
+      "importer": "gltf-scene",
+      "uuid": "9e494b11-ac66-4aac-a5b9-ae4376144d0b@76a04",
+      "displayName": "",
+      "id": "76a04",
+      "name": "MainHero@Reload_Rifle_Ironsights_handgun1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "MainHero@Reload_Rifle_Ironsights_handgun1",
+        "duration": 2.200000047683716,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Reload_Rifle_Ironsights_handgun1",
+            "from": 0,
+            "to": 2.200000047683716,
+            "wrapMode": 2,
+            "speed": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "9e494b11-ac66-4aac-a5b9-ae4376144d0b@76a04",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "9e494b11-ac66-4aac-a5b9-ae4376144d0b@76a04"
+      ]
+    }
+  }
+}

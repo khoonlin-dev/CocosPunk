@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "73c32b17-9b32-4300-92d1-fc078e935165",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "633d2": {
+      "importer": "gltf-animation",
+      "uuid": "73c32b17-9b32-4300-92d1-fc078e935165@633d2",
+      "displayName": "",
+      "id": "633d2",
+      "name": "Fire_Shotgun_Ironsights.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.2999999523162842
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "668fd": {
+      "importer": "gltf-scene",
+      "uuid": "73c32b17-9b32-4300-92d1-fc078e935165@668fd",
+      "displayName": "",
+      "id": "668fd",
+      "name": "MainHero@Fire_Shotgun_Ironsights.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.2999999523162842,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Fire_Shotgun_Ironsights",
+            "from": 0,
+            "to": 1.2999999523162842,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "73c32b17-9b32-4300-92d1-fc078e935165@668fd",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "73c32b17-9b32-4300-92d1-fc078e935165@668fd"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

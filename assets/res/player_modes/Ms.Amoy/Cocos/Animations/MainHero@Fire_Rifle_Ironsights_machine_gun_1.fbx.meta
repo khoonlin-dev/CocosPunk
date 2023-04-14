@@ -1,0 +1,81 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "661864a7-2d71-4e40-aec5-9256a8acda90",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "f5041": {
+      "importer": "gltf-animation",
+      "uuid": "661864a7-2d71-4e40-aec5-9256a8acda90@f5041",
+      "displayName": "",
+      "id": "f5041",
+      "name": "Fire_Rifle_Ironsights_machine_gun_1.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.23333333432674408
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "b6343": {
+      "importer": "gltf-scene",
+      "uuid": "661864a7-2d71-4e40-aec5-9256a8acda90@b6343",
+      "displayName": "",
+      "id": "b6343",
+      "name": "MainHero@Fire_Rifle_Ironsights_machine_gun_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "MainHero@Fire_Rifle_Ironsights_achine_gun_1",
+        "duration": 0.23333333432674408,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Fire_Rifle_Ironsights_machine_gun_1",
+            "from": 0,
+            "to": 0.23333333432674408,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "661864a7-2d71-4e40-aec5-9256a8acda90@b6343",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "661864a7-2d71-4e40-aec5-9256a8acda90@b6343"
+      ]
+    }
+  }
+}

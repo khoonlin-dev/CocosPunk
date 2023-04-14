@@ -1,0 +1,185 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "97a807d5-7906-4497-8387-cdac6f97a5c4",
+  "files": [],
+  "subMetas": {
+    "90030": {
+      "importer": "texture",
+      "uuid": "97a807d5-7906-4497-8387-cdac6f97a5c4@90030",
+      "displayName": "",
+      "id": "90030",
+      "name": "bag_BaseColor_1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/player_modes/bag0/bag_BaseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5e786": {
+      "importer": "gltf-mesh",
+      "uuid": "97a807d5-7906-4497-8387-cdac6f97a5c4@5e786",
+      "displayName": "",
+      "id": "5e786",
+      "name": "polySurface306.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "97a807d5-7906-4497-8387-cdac6f97a5c4@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "027e6": {
+      "importer": "gltf-scene",
+      "uuid": "97a807d5-7906-4497-8387-cdac6f97a5c4@027e6",
+      "displayName": "",
+      "id": "027e6",
+      "name": "bag_2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "bag_BaseColor_1",
+        "uri": "db://assets/res/player_modes/bag0/bag_BaseColor.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "97a807d5-7906-4497-8387-cdac6f97a5c4@027e6",
+    "assetFinder": {
+      "meshes": [
+        "97a807d5-7906-4497-8387-cdac6f97a5c4@5e786"
+      ],
+      "skeletons": [],
+      "textures": [
+        "97a807d5-7906-4497-8387-cdac6f97a5c4@90030"
+      ],
+      "materials": [
+        "97a807d5-7906-4497-8387-cdac6f97a5c4@7a3ca"
+      ],
+      "scenes": [
+        "97a807d5-7906-4497-8387-cdac6f97a5c4@027e6"
+      ]
+    },
+    "materials": {
+      "97a807d5-7906-4497-8387-cdac6f97a5c4@7a3ca": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "a143bc18-8bab-4157-a97d-07b4a55e69fe",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "USE_NORMAL_MAP": true,
+            "USE_ALBEDO_MAP": true,
+            "USE_PBR_MAP": true,
+            "USE_EMISSIVE_MAP": true
+          },
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "metallic": 0,
+            "emissive": {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "emissiveScale": {
+              "__type__": "cc.Vec3",
+              "x": 10,
+              "y": 10,
+              "z": 10
+            },
+            "mainTexture": {
+              "__uuid__": "97a807d5-7906-4497-8387-cdac6f97a5c4@90030",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "normalMap": {
+              "__uuid__": "297456dc-c8d3-46b7-9660-98121a08b00e@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "pbrMap": {
+              "__uuid__": "0887df01-326f-44ab-ae39-085dfd6499b9@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "emissiveMap": {
+              "__uuid__": "e5117f65-51dc-4e28-9263-93470e600c00@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            }
+          },
+          {}
+        ]
+      }
+    }
+  }
+}

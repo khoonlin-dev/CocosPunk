@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ff000511-60f1-4247-9819-50b2fa873fdf",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "87595": {
+      "importer": "gltf-animation",
+      "uuid": "ff000511-60f1-4247-9819-50b2fa873fdf@87595",
+      "displayName": "",
+      "id": "87595",
+      "name": "NoWeapon_Jump_Start.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.46666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "b1230": {
+      "importer": "gltf-scene",
+      "uuid": "ff000511-60f1-4247-9819-50b2fa873fdf@b1230",
+      "displayName": "",
+      "id": "b1230",
+      "name": "MainHero@NoWeapon_Jump_Start.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.46666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "NoWeapon_Jump_Start",
+            "from": 0,
+            "to": 0.46666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "ff000511-60f1-4247-9819-50b2fa873fdf@b1230",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "ff000511-60f1-4247-9819-50b2fa873fdf@b1230"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

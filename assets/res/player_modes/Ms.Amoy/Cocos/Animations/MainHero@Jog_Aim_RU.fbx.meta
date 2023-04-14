@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f4606302-765a-4e06-bcda-02a417e0d49c",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "62ea4": {
+      "importer": "gltf-animation",
+      "uuid": "f4606302-765a-4e06-bcda-02a417e0d49c@62ea4",
+      "displayName": "",
+      "id": "62ea4",
+      "name": "Jog_Aim_RU.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.03333333507180214
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "7300f": {
+      "importer": "gltf-scene",
+      "uuid": "f4606302-765a-4e06-bcda-02a417e0d49c@7300f",
+      "displayName": "",
+      "id": "7300f",
+      "name": "MainHero@Jog_Aim_RU.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.03333333507180214,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Jog_Aim_RU",
+            "from": 0,
+            "to": 0.03333333507180214,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f4606302-765a-4e06-bcda-02a417e0d49c@7300f",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "f4606302-765a-4e06-bcda-02a417e0d49c@7300f"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

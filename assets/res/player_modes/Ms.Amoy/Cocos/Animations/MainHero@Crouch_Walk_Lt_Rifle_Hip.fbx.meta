@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "035b95c5-bafd-42a9-a0be-72b9957aec79",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "3fef2": {
+      "importer": "gltf-animation",
+      "uuid": "035b95c5-bafd-42a9-a0be-72b9957aec79@3fef2",
+      "displayName": "",
+      "id": "3fef2",
+      "name": "Crouch_Walk_Lt_Rifle_Hip.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.899999976158142
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "4f33d": {
+      "importer": "gltf-scene",
+      "uuid": "035b95c5-bafd-42a9-a0be-72b9957aec79@4f33d",
+      "displayName": "",
+      "id": "4f33d",
+      "name": "MainHero@Crouch_Walk_Lt_Rifle_Hip.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.899999976158142,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Crouch_Walk_Lt_Rifle_Hip",
+            "from": 0,
+            "to": 1.899999976158142,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "035b95c5-bafd-42a9-a0be-72b9957aec79@4f33d",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "035b95c5-bafd-42a9-a0be-72b9957aec79@4f33d"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

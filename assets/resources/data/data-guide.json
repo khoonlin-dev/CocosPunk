@@ -1,0 +1,10 @@
+{
+    "guide_keyboard":[
+        "guide_keyboard",
+        "guide_end"
+    ],
+    "guide_joystick":[
+        "guide_keyboard",
+        "guide_end" 
+    ]
+}

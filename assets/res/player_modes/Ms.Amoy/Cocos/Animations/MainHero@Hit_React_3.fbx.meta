@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3c1aa353-56ec-466c-977b-c9b224714d51",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "f1668": {
+      "importer": "gltf-animation",
+      "uuid": "3c1aa353-56ec-466c-977b-c9b224714d51@f1668",
+      "displayName": "",
+      "id": "f1668",
+      "name": "Hit_React_3.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.9666666388511658
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "6ecde": {
+      "importer": "gltf-scene",
+      "uuid": "3c1aa353-56ec-466c-977b-c9b224714d51@6ecde",
+      "displayName": "",
+      "id": "6ecde",
+      "name": "MainHero@Hit_React_3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.9666666388511658,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Hit_React_3",
+            "from": 0,
+            "to": 0.9666666388511658,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "3c1aa353-56ec-466c-977b-c9b224714d51@6ecde",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "3c1aa353-56ec-466c-977b-c9b224714d51@6ecde"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

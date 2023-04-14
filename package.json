@@ -1,0 +1,14 @@
+{
+  "name": "Cocospunk",
+  "uuid": "dcc4366d-ee80-4eae-9f5c-d55b0afa1b6f",
+  "creator": {
+    "version": "3.7.2"
+  },
+  "version": "3.7.2",
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-plugin-react": "^7.31.11"
+  },
+  "_sourceId": "ad4078a9-dd20-4faa-92fd-b82a039e6180",
+  "_storeId": "ff1fb9dd5e8e1cfc6c5e994dd6b3260d"
+}

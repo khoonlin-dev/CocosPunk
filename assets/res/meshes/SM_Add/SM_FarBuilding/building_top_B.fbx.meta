@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f5f9d84a-6cb7-4b6b-99a9-b06f8046baec",
+  "files": [],
+  "subMetas": {
+    "2c9eb": {
+      "importer": "gltf-mesh",
+      "uuid": "f5f9d84a-6cb7-4b6b-99a9-b06f8046baec@2c9eb",
+      "displayName": "",
+      "id": "2c9eb",
+      "name": "building_top_B.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "f5f9d84a-6cb7-4b6b-99a9-b06f8046baec@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ead61": {
+      "importer": "gltf-scene",
+      "uuid": "f5f9d84a-6cb7-4b6b-99a9-b06f8046baec@ead61",
+      "displayName": "",
+      "id": "ead61",
+      "name": "building_top_B.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f5f9d84a-6cb7-4b6b-99a9-b06f8046baec@ead61",
+    "assetFinder": {
+      "meshes": [
+        "f5f9d84a-6cb7-4b6b-99a9-b06f8046baec@2c9eb"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "f5f9d84a-6cb7-4b6b-99a9-b06f8046baec@7a3ca"
+      ],
+      "scenes": [
+        "f5f9d84a-6cb7-4b6b-99a9-b06f8046baec@ead61"
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e84f6dbe-d244-47cf-ac46-b9ccccfedd19",
+  "files": [],
+  "subMetas": {
+    "eb6ac": {
+      "importer": "gltf-mesh",
+      "uuid": "e84f6dbe-d244-47cf-ac46-b9ccccfedd19@eb6ac",
+      "displayName": "",
+      "id": "eb6ac",
+      "name": "e3.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "e84f6dbe-d244-47cf-ac46-b9ccccfedd19@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dba6f": {
+      "importer": "gltf-scene",
+      "uuid": "e84f6dbe-d244-47cf-ac46-b9ccccfedd19@dba6f",
+      "displayName": "",
+      "id": "dba6f",
+      "name": "zhaopaizuo_e.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e84f6dbe-d244-47cf-ac46-b9ccccfedd19@dba6f",
+    "assetFinder": {
+      "meshes": [
+        "e84f6dbe-d244-47cf-ac46-b9ccccfedd19@eb6ac"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e84f6dbe-d244-47cf-ac46-b9ccccfedd19@8d883"
+      ],
+      "scenes": [
+        "e84f6dbe-d244-47cf-ac46-b9ccccfedd19@dba6f"
+      ]
+    }
+  }
+}

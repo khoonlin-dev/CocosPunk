@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f99399f3-6c12-441f-97a0-431f501f64c7",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "54729": {
+      "importer": "gltf-animation",
+      "uuid": "f99399f3-6c12-441f-97a0-431f501f64c7@54729",
+      "displayName": "",
+      "id": "54729",
+      "name": "Reload_Shotgun_Hip.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.333333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "eb907": {
+      "importer": "gltf-scene",
+      "uuid": "f99399f3-6c12-441f-97a0-431f501f64c7@eb907",
+      "displayName": "",
+      "id": "eb907",
+      "name": "MainHero@Reload_Shotgun_Hip.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 4.333333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Reload_Shotgun_Hip",
+            "from": 0,
+            "to": 4.333333492279053,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f99399f3-6c12-441f-97a0-431f501f64c7@eb907",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "f99399f3-6c12-441f-97a0-431f501f64c7@eb907"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

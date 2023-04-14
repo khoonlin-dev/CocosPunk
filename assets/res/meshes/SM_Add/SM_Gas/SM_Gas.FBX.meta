@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ceef2b9c-95d4-48a9-bb91-07838d0baa0c",
+  "files": [],
+  "subMetas": {
+    "ae651": {
+      "importer": "gltf-mesh",
+      "uuid": "ceef2b9c-95d4-48a9-bb91-07838d0baa0c@ae651",
+      "displayName": "",
+      "id": "ae651",
+      "name": "pCylinder49.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "ceef2b9c-95d4-48a9-bb91-07838d0baa0c@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad113": {
+      "importer": "gltf-scene",
+      "uuid": "ceef2b9c-95d4-48a9-bb91-07838d0baa0c@ad113",
+      "displayName": "",
+      "id": "ad113",
+      "name": "SM_Gas.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ceef2b9c-95d4-48a9-bb91-07838d0baa0c@ad113",
+    "assetFinder": {
+      "meshes": [
+        "ceef2b9c-95d4-48a9-bb91-07838d0baa0c@ae651"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ceef2b9c-95d4-48a9-bb91-07838d0baa0c@8d883"
+      ],
+      "scenes": [
+        "ceef2b9c-95d4-48a9-bb91-07838d0baa0c@ad113"
+      ]
+    }
+  }
+}

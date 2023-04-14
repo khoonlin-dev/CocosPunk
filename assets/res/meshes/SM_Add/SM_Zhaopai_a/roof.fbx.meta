@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "021031d9-0669-4e92-b9cb-b3b354f2df75",
+  "files": [],
+  "subMetas": {
+    "11c07": {
+      "importer": "gltf-mesh",
+      "uuid": "021031d9-0669-4e92-b9cb-b3b354f2df75@11c07",
+      "displayName": "",
+      "id": "11c07",
+      "name": "polySurface54.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "245e5": {
+      "importer": "gltf-embeded-image",
+      "uuid": "021031d9-0669-4e92-b9cb-b3b354f2df75@245e5",
+      "displayName": "",
+      "id": "245e5",
+      "name": "brick1_ORM_1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "aa149": {
+      "importer": "texture",
+      "uuid": "021031d9-0669-4e92-b9cb-b3b354f2df75@aa149",
+      "displayName": "",
+      "id": "aa149",
+      "name": "brick1_ORM_1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "021031d9-0669-4e92-b9cb-b3b354f2df75@245e5"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "62b33": {
+      "importer": "gltf-material",
+      "uuid": "021031d9-0669-4e92-b9cb-b3b354f2df75@62b33",
+      "displayName": "",
+      "id": "62b33",
+      "name": "lambert6.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adf0a": {
+      "importer": "gltf-scene",
+      "uuid": "021031d9-0669-4e92-b9cb-b3b354f2df75@adf0a",
+      "displayName": "",
+      "id": "adf0a",
+      "name": "roof.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "brick1_ORM_1",
+        "uri": "021031d9-0669-4e92-b9cb-b3b354f2df75@245e5"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "021031d9-0669-4e92-b9cb-b3b354f2df75@adf0a",
+    "assetFinder": {
+      "meshes": [
+        "021031d9-0669-4e92-b9cb-b3b354f2df75@11c07"
+      ],
+      "skeletons": [],
+      "textures": [
+        "021031d9-0669-4e92-b9cb-b3b354f2df75@aa149"
+      ],
+      "materials": [
+        "021031d9-0669-4e92-b9cb-b3b354f2df75@62b33"
+      ],
+      "scenes": [
+        "021031d9-0669-4e92-b9cb-b3b354f2df75@adf0a"
+      ]
+    }
+  }
+}

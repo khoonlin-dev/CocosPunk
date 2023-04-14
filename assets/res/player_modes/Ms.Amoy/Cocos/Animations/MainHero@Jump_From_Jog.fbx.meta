@@ -1,0 +1,114 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6fd82bf7-a4b0-4725-872f-fbfd0ce57218",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "4932d": {
+      "importer": "gltf-animation",
+      "uuid": "6fd82bf7-a4b0-4725-872f-fbfd0ce57218@4932d",
+      "displayName": "",
+      "id": "4932d",
+      "name": "Jump_From_Jog.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 1,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "8c805": {
+      "importer": "gltf-animation",
+      "uuid": "6fd82bf7-a4b0-4725-872f-fbfd0ce57218@8c805",
+      "displayName": "",
+      "id": "8c805",
+      "name": "jump_From_jog_on_ground.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "speed": 1,
+        "sample": 30,
+        "span": {
+          "from": 0.5333333333333333,
+          "to": 0.7666666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "c8dcd": {
+      "importer": "gltf-scene",
+      "uuid": "6fd82bf7-a4b0-4725-872f-fbfd0ce57218@c8dcd",
+      "displayName": "",
+      "id": "c8dcd",
+      "name": "MainHero@Jump_From_Jog.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.7666666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Jump_From_Jog",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 1
+          },
+          {
+            "name": "jump_From_jog_on_ground",
+            "from": 0.5333333333333333,
+            "to": 0.7666666507720947,
+            "wrapMode": 2,
+            "speed": 1
+          }
+        ]
+      }
+    ],
+    "redirect": "6fd82bf7-a4b0-4725-872f-fbfd0ce57218@c8dcd",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "6fd82bf7-a4b0-4725-872f-fbfd0ce57218@c8dcd"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

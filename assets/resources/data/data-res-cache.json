@@ -1,0 +1,20 @@
+{
+    "json":[
+        "data",
+        "action",
+        "brain",
+        "local"
+    ],
+    "prefab":[
+        "obj",
+        "fx",
+        "actor",
+        "ui"
+    ],
+    "sprite":[
+        "icons"
+    ],
+    "sound":[
+        "sound"
+    ]
+}

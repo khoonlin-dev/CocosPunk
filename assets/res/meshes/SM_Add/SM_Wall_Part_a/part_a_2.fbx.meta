@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "449b4528-500a-4303-ba35-93cd6402c9f9",
+  "files": [],
+  "subMetas": {
+    "fe268": {
+      "importer": "gltf-mesh",
+      "uuid": "449b4528-500a-4303-ba35-93cd6402c9f9@fe268",
+      "displayName": "",
+      "id": "fe268",
+      "name": "polySurface67.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d883": {
+      "importer": "gltf-material",
+      "uuid": "449b4528-500a-4303-ba35-93cd6402c9f9@8d883",
+      "displayName": "",
+      "id": "8d883",
+      "name": "lambert1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53fcc": {
+      "importer": "gltf-scene",
+      "uuid": "449b4528-500a-4303-ba35-93cd6402c9f9@53fcc",
+      "displayName": "",
+      "id": "53fcc",
+      "name": "part_a_2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "449b4528-500a-4303-ba35-93cd6402c9f9@53fcc",
+    "assetFinder": {
+      "meshes": [
+        "449b4528-500a-4303-ba35-93cd6402c9f9@fe268"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "449b4528-500a-4303-ba35-93cd6402c9f9@8d883"
+      ],
+      "scenes": [
+        "449b4528-500a-4303-ba35-93cd6402c9f9@53fcc"
+      ]
+    }
+  }
+}

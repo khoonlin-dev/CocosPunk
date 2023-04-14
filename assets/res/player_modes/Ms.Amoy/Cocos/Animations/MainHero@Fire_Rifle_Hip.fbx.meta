@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8e6a1100-3098-4e52-8deb-78abbfa61f39",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "23012": {
+      "importer": "gltf-animation",
+      "uuid": "8e6a1100-3098-4e52-8deb-78abbfa61f39@23012",
+      "displayName": "",
+      "id": "23012",
+      "name": "Fire_Rifle_Hip.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.23333333432674408
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "d858b": {
+      "importer": "gltf-scene",
+      "uuid": "8e6a1100-3098-4e52-8deb-78abbfa61f39@d858b",
+      "displayName": "",
+      "id": "d858b",
+      "name": "MainHero@Fire_Rifle_Hip.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.23333333432674408,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Fire_Rifle_Hip",
+            "from": 0,
+            "to": 0.23333333432674408,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "8e6a1100-3098-4e52-8deb-78abbfa61f39@d858b",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "8e6a1100-3098-4e52-8deb-78abbfa61f39@d858b"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "46e28837-e62d-4151-a74a-9a5ee03e8c83",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "568b8": {
+      "importer": "gltf-animation",
+      "uuid": "46e28837-e62d-4151-a74a-9a5ee03e8c83@568b8",
+      "displayName": "",
+      "id": "568b8",
+      "name": "Ironsight_Aim_R.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.03333333507180214
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "d0322": {
+      "importer": "gltf-scene",
+      "uuid": "46e28837-e62d-4151-a74a-9a5ee03e8c83@d0322",
+      "displayName": "",
+      "id": "d0322",
+      "name": "MainHero@Ironsight_Aim_R.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.03333333507180214,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Ironsight_Aim_R",
+            "from": 0,
+            "to": 0.03333333507180214,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "46e28837-e62d-4151-a74a-9a5ee03e8c83@d0322",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "46e28837-e62d-4151-a74a-9a5ee03e8c83@d0322"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

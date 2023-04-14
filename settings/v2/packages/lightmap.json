@@ -1,0 +1,31 @@
+{
+  "__version__": "1.0.4",
+  "latestLightmapResultMap": {
+    "4aa50c75-06bc-4eb3-b446-458cd2575034": {
+      "results": [
+        "2cc3d0dc-8ddb-4fac-a128-01867556f387"
+      ],
+      "dir": "C:\\workspace\\fireball\\projects\\cyberpunk\\assets\\test\\LightFX"
+    },
+    "2921fae8-e45f-40b8-bfdd-8cb6a38dfed5": {
+      "results": [
+        "3ed85acc-b1cb-430a-a7c9-17604f338ff0",
+        "aa589450-9ebd-4867-a696-1304496a0f37",
+        "606cca3a-8de1-42b2-bfbd-ce1465c3a363",
+        "07478144-4c1c-4382-a519-8b5d3ddc4449",
+        "0098fea9-4308-41dd-ade8-d03b75e0b7bf",
+        "8843a1ca-0b83-4fc3-9e40-c718a8eb3356",
+        "b3ab4539-a0f0-4c01-87d2-c452047ae963",
+        "7662490a-b152-4447-8813-c8d3035674af",
+        "505a6ee4-ad21-4fb3-8c4b-d812b4570765",
+        "73cf8213-a3de-4196-8c19-2953d4cc37b2",
+        "18ed916b-8c22-4436-b2cb-a3dcad174415"
+      ],
+      "dir": "C:\\workspace\\fireball\\projects\\cyberpunk\\assets\\LightFX"
+    },
+    "9ba58fb4-0f88-4dd2-880d-458521584cc4": {
+      "results": [],
+      "dir": "C:\\workspace\\fireball\\projects\\cyberpunk\\assets\\test\\test-static-batch\\LightFX"
+    }
+  }
+}

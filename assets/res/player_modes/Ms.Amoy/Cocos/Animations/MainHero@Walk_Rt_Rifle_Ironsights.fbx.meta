@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "83a13d44-5ee9-40e6-a151-33cd929ab332",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "64640": {
+      "importer": "gltf-animation",
+      "uuid": "83a13d44-5ee9-40e6-a151-33cd929ab332@64640",
+      "displayName": "",
+      "id": "64640",
+      "name": "Walk_Rt_Rifle_Ironsights.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.8666666746139526
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "ddaa0": {
+      "importer": "gltf-scene",
+      "uuid": "83a13d44-5ee9-40e6-a151-33cd929ab332@ddaa0",
+      "displayName": "",
+      "id": "ddaa0",
+      "name": "MainHero@Walk_Rt_Rifle_Ironsights.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.8666666746139526,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Walk_Rt_Rifle_Ironsights",
+            "from": 0,
+            "to": 1.8666666746139526,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "83a13d44-5ee9-40e6-a151-33cd929ab332@ddaa0",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "83a13d44-5ee9-40e6-a151-33cd929ab332@ddaa0"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b54d856b-8753-4e10-8331-a5f37d5d53de",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "65bfb": {
+      "importer": "gltf-animation",
+      "uuid": "b54d856b-8753-4e10-8331-a5f37d5d53de@65bfb",
+      "displayName": "",
+      "id": "65bfb",
+      "name": "Cover_Low_AimU.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 6.333333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "9a5e8": {
+      "importer": "gltf-scene",
+      "uuid": "b54d856b-8753-4e10-8331-a5f37d5d53de@9a5e8",
+      "displayName": "",
+      "id": "9a5e8",
+      "name": "MainHero@Cover_Low_AimU.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 6.333333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Cover_Low_AimU",
+            "from": 0,
+            "to": 6.333333492279053,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "b54d856b-8753-4e10-8331-a5f37d5d53de@9a5e8",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "b54d856b-8753-4e10-8331-a5f37d5d53de@9a5e8"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

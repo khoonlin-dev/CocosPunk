@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "904d9a19-1b6e-4fad-a1bb-bcad4b212318",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "84928": {
+      "importer": "gltf-animation",
+      "uuid": "904d9a19-1b6e-4fad-a1bb-bcad4b212318@84928",
+      "displayName": "",
+      "id": "84928",
+      "name": "Hit_React_Crouch.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.9666666388511658
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "9483e": {
+      "importer": "gltf-scene",
+      "uuid": "904d9a19-1b6e-4fad-a1bb-bcad4b212318@9483e",
+      "displayName": "",
+      "id": "9483e",
+      "name": "MainHero@Hit_React_Crouch.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.9666666388511658,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Hit_React_Crouch",
+            "from": 0,
+            "to": 0.9666666388511658,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "904d9a19-1b6e-4fad-a1bb-bcad4b212318@9483e",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "904d9a19-1b6e-4fad-a1bb-bcad4b212318@9483e"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "ver": "2.3.4",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5",
+  "files": [],
+  "subMetas": {
+    "b420d": {
+      "importer": "gltf-mesh",
+      "uuid": "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@b420d",
+      "displayName": "",
+      "id": "b420d",
+      "name": "mesh_grenade_gun_0_tps.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/player_modes/grenade_gun_0/standard_baseColor.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/player_modes/grenade_gun_0/standard_baseColor.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/player_modes/grenade_gun_0/standard_metallicRoughness.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b633": {
+      "importer": "texture",
+      "uuid": "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@9b633",
+      "displayName": "",
+      "id": "9b633",
+      "name": "UnnamedTexture-3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/player_modes/grenade_gun_0/standard_baseColor.jpg"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b782": {
+      "importer": "texture",
+      "uuid": "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@9b782",
+      "displayName": "",
+      "id": "9b782",
+      "name": "UnnamedTexture-4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/res/player_modes/grenade_gun_0/standard_metallicRoughness.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5f3d5": {
+      "importer": "gltf-material",
+      "uuid": "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@5f3d5",
+      "displayName": "",
+      "id": "5f3d5",
+      "name": "standard1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f71f2": {
+      "importer": "gltf-material",
+      "uuid": "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@f71f2",
+      "displayName": "",
+      "id": "f71f2",
+      "name": "standard.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "02e0b": {
+      "importer": "gltf-scene",
+      "uuid": "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@02e0b",
+      "displayName": "",
+      "id": "02e0b",
+      "name": "grenade_gun_0.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "standard_baseColor",
+        "remap": "db://assets/res/player_modes/grenade_gun_0/standard_baseColor.jpg",
+        "uri": "db://assets/res/player_modes/grenade_gun_0/standard_baseColor.jpg"
+      },
+      {
+        "name": "standard1_metallicRoughness",
+        "remap": "db://assets/res/player_modes/grenade_gun_0/standard_metallicRoughness.png",
+        "uri": "db://assets/res/player_modes/grenade_gun_0/standard1_metallicRoughness.png"
+      },
+      {
+        "name": "standard_metallicRoughness",
+        "uri": "db://assets/res/player_modes/grenade_gun_0/standard_metallicRoughness.png"
+      }
+    ],
+    "redirect": "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@02e0b",
+    "assetFinder": {
+      "meshes": [
+        "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@b420d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@3effa",
+        "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@221a5",
+        "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@0089c",
+        "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@9b633",
+        "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@9b782"
+      ],
+      "materials": [
+        "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@5f3d5",
+        "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@f71f2"
+      ],
+      "scenes": [
+        "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@02e0b"
+      ]
+    },
+    "materials": {
+      "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@f71f2": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "a143bc18-8bab-4157-a97d-07b4a55e69fe",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "USE_ALBEDO_MAP": true,
+            "USE_METALLIC_ROUGHNESS_MAP": true
+          }
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "roughness": 1,
+            "metallic": 0,
+            "mainTexture": {
+              "__uuid__": "5ce0bf65-acff-4516-886d-3d0756cda25d@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "metallicRoughnessMap": {
+              "__uuid__": "0ec5486a-0d93-4b31-b22f-057f64d31ef5@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            }
+          }
+        ]
+      },
+      "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@5f3d5": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "a143bc18-8bab-4157-a97d-07b4a55e69fe",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "USE_ALBEDO_MAP": true,
+            "USE_METALLIC_ROUGHNESS_MAP": true,
+            "USE_EMISSIVE_MAP": true
+          }
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "roughness": 1,
+            "metallic": 0,
+            "emissive": {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 255
+            },
+            "mainTexture": {
+              "__uuid__": "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@0089c",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "metallicRoughnessMap": {
+              "__uuid__": "7fdc7e96-13a1-4adf-86d0-2dbaca9390f5@9b633",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "emissiveMap": {
+              "__uuid__": "5ce0bf65-acff-4516-886d-3d0756cda25d@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

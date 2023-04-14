@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d2018831-6642-4e1c-9801-20bcce57d7be",
+  "files": [],
+  "subMetas": {
+    "5c925": {
+      "importer": "gltf-mesh",
+      "uuid": "d2018831-6642-4e1c-9801-20bcce57d7be@5c925",
+      "displayName": "",
+      "id": "5c925",
+      "name": "polySurface83.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cd3cd": {
+      "importer": "gltf-material",
+      "uuid": "d2018831-6642-4e1c-9801-20bcce57d7be@cd3cd",
+      "displayName": "",
+      "id": "cd3cd",
+      "name": "lambert7.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b3f2e": {
+      "importer": "gltf-scene",
+      "uuid": "d2018831-6642-4e1c-9801-20bcce57d7be@b3f2e",
+      "displayName": "",
+      "id": "b3f2e",
+      "name": "wall_e_6.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d2018831-6642-4e1c-9801-20bcce57d7be@b3f2e",
+    "assetFinder": {
+      "meshes": [
+        "d2018831-6642-4e1c-9801-20bcce57d7be@5c925"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d2018831-6642-4e1c-9801-20bcce57d7be@cd3cd"
+      ],
+      "scenes": [
+        "d2018831-6642-4e1c-9801-20bcce57d7be@b3f2e"
+      ]
+    }
+  }
+}

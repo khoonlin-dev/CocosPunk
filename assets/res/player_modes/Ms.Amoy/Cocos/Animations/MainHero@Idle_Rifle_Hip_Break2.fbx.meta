@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ebbbd1a3-d62c-439f-9721-ba71256d098c",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "bbf62": {
+      "importer": "gltf-animation",
+      "uuid": "ebbbd1a3-d62c-439f-9721-ba71256d098c@bbf62",
+      "displayName": "",
+      "id": "bbf62",
+      "name": "Idle_Rifle_Hip_Break2.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.166666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "36bc6": {
+      "importer": "gltf-scene",
+      "uuid": "ebbbd1a3-d62c-439f-9721-ba71256d098c@36bc6",
+      "displayName": "",
+      "id": "36bc6",
+      "name": "MainHero@Idle_Rifle_Hip_Break2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 4.166666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Idle_Rifle_Hip_Break2",
+            "from": 0,
+            "to": 4.166666507720947,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "ebbbd1a3-d62c-439f-9721-ba71256d098c@36bc6",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "ebbbd1a3-d62c-439f-9721-ba71256d098c@36bc6"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

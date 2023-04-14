@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e15a8b69-e02d-4665-810a-9c4606f6caf2",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "38a5e": {
+      "importer": "gltf-animation",
+      "uuid": "e15a8b69-e02d-4665-810a-9c4606f6caf2@38a5e",
+      "displayName": "",
+      "id": "38a5e",
+      "name": "NoWeapon_Sprit.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6000000238418579
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "6b402": {
+      "importer": "gltf-scene",
+      "uuid": "e15a8b69-e02d-4665-810a-9c4606f6caf2@6b402",
+      "displayName": "",
+      "id": "6b402",
+      "name": "MainHero@NoWeapon_Sprit.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.6000000238418579,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "NoWeapon_Sprit",
+            "from": 0,
+            "to": 0.6000000238418579,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "e15a8b69-e02d-4665-810a-9c4606f6caf2@6b402",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "e15a8b69-e02d-4665-810a-9c4606f6caf2@6b402"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}

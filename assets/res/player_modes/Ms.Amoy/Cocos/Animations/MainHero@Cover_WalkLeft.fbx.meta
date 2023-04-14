@@ -1,0 +1,83 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "af050795-a03a-4fba-b8f8-f41d1a378725",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "7ec0d": {
+      "importer": "gltf-animation",
+      "uuid": "af050795-a03a-4fba-b8f8-f41d1a378725@7ec0d",
+      "displayName": "",
+      "id": "7ec0d",
+      "name": "Cover_WalkLeft.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.8666666746139526
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "8439c": {
+      "importer": "gltf-scene",
+      "uuid": "af050795-a03a-4fba-b8f8-f41d1a378725@8439c",
+      "displayName": "",
+      "id": "8439c",
+      "name": "MainHero@Cover_WalkLeft.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.8666666746139526,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Cover_WalkLeft",
+            "from": 0,
+            "to": 1.8666666746139526,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "af050795-a03a-4fba-b8f8-f41d1a378725@8439c",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "af050795-a03a-4fba-b8f8-f41d1a378725@8439c"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false
+    }
+  }
+}
